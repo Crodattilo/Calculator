@@ -1,2 +1,2 @@
 # Calculator
-A very simple calculator
+A very simple calculator for Windows
